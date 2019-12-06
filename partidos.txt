@@ -1,0 +1,4 @@
+America;Cruz Azul;Win
+Cruz Azul;Chivas;Win
+America;Chivas;Win
+America;Cruz Azul;Draw
